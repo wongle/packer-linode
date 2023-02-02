@@ -1,0 +1,5 @@
+# macOS files
+.DS_Store
+
+# Packer build.log
+build.log
